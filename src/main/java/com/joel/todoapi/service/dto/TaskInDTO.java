@@ -7,7 +7,5 @@ import java.time.LocalDateTime;
 public class TaskInDTO {
     private String title;
     private String description;
-
-    // eta = Estimated Time
     private LocalDateTime estimatedTime;
 }
